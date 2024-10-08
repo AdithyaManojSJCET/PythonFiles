@@ -1,6 +1,7 @@
 '''
 Author: Adithya Manoj
 Date: 08/10/2024
+Version: 1.0
 Simple desktop calculator using Python. Only the five basic arithmetic operators.
 '''
 
